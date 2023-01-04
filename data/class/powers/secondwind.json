@@ -1,6 +1,6 @@
 {
-    "name": "Bone-Plating",
-    "description": "Reduces your next incoming hit by 2 hearts. Takes 15 seconds to recharge.\n",
+    "name": "Segunda chance",
+    "description": "Al recibir daño letal, te vuelves completamente invulnerable\n",
     "type": "origins:multiple",
     "cooldown": {
         "type": "origins:cooldown",
@@ -24,10 +24,19 @@
             "comparison": "==",
             "compare_to": 0
         },
-        "type": "origins:modify_damage_taken",
-        "modifier": {
-            "operation": "add_base_late",
-            "value": -2
+        "type": "origins:action_over_time",
+        "interval":5,
+        "entity_action": {
+            "type": "origins:apply_effect",
+            "effects": [
+                {
+                    "effect": "minecraft:resistance",
+                    "duration": 20,
+                    "amplifier": 6,
+                    "show_particles": false,
+                    "show_icon": false
+                }
+            ]
         },
         "self_action": {
             "type": "origins:trigger_cooldown",
