@@ -1,6 +1,6 @@
 {
-    "name": "Débil",
-    "description": "Haces menos daño de cuerpo a cuerpo.\n",
+    "name": "Fuerte",
+    "description": "Haces más daño de cuerpo a cuerpo.\n",
     "type": "origins:modify_damage_dealt",
     "damage_condition": {
         "inverted": true,
@@ -8,6 +8,6 @@
     },
     "modifier": {
         "operation": "multiply_base",
-        "value": 0.50
+        "value": 1.25
     }
 }

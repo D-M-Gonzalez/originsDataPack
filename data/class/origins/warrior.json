@@ -6,7 +6,8 @@
         "class:lessranged",
         "class:nomagic",
         "class:resistant",
-        "class:secondwind"
+        "class:secondwind",
+        "class:moremelee"
     ],
     "icon": {
         "item": "minecraft:iron_sword",

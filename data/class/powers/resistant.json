@@ -1,5 +1,5 @@
 {
-    "name": "Vulnerable",
+    "name": "Resistente",
     "description": "Recibes menos daño de todas las criaturas.",
     "type": "origins:modify_damage_taken",
     "modifier": {
