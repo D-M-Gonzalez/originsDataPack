@@ -1,0 +1,12 @@
+{
+    "name": "Arquero",
+    "description": "Especializado en el daño a distancia, el arquero es ágil, y tiene afinidad con los animales.",
+    "powers": [
+        "class:lessmelee"
+    ],
+    "icon": {
+        "item": "minecraft:bow",
+        "amount": 1
+    },
+    "impact": 0
+}

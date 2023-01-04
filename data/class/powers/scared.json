@@ -1,0 +1,30 @@
+{
+    "name": "Fright",
+    "description": "When a mob is within 4 blocks of you, you get weakness 2.",
+    "type": "origins:action_over_time",
+    "interval": 1,
+    "entity_action": {
+        "type": "origins:area_of_effect",
+        "radius": 4,
+        "bientity_condition": {
+            "type": "origins:target_condition",
+            "condition": {
+                "type": "origins:in_tag",
+                "tag": "*:mobs"
+            }
+        },
+        "bientity_action": {
+            "type": "origins:actor_action",
+            "action": {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:weakness",
+                    "duration": 42,
+                    "amplifier": 1,
+                    "show_particles": false,
+                    "show_icon": false
+                }
+            }
+        }
+    }
+}

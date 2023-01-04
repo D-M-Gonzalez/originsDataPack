@@ -1,0 +1,41 @@
+{
+    "name": "Juju-Shortbow",
+    "description": "You instantly shoot arrows when you left click (costs 5 mana and doesn't require arrows).\n",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "mainhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "minecraft:bow"
+                    }
+                }
+            },
+            {
+                "type": "origins:resource",
+                "resource": "*:mana",
+                "comparison": ">=",
+                "compare_to": 5
+            }
+        ]
+    },
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:arrow",
+    "cooldown": 5,
+    "hud_render": {
+        "should_render": false
+    },
+    "count": 1,
+    "interval": 0,
+    "start_delay": 0,
+    "speed": 2.5,
+    "divergence": 1,
+    "sound": "minecraft:entity.arrow.shoot",
+    "tag": "{pickup:0b}",
+    "key": {
+        "key": "key.attack"
+    }
+}
