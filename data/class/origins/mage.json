@@ -3,6 +3,7 @@
     "description": "Maestro de los elementos y de la manipulación del maná. El mago es frágil, pero posee un increible poder.",
     "powers": [
         "class:mage",
+        "class:permabook",
         "class:lessmelee",
         "class:vulnerable",
         "class:fireaffinity",
