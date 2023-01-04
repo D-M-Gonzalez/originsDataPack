@@ -1,0 +1,10 @@
+{
+    "name": "Items iniciales",
+    "description": "Los magos comienzan con su libro.\n",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "ars_nouveau:novice_spell_book"
+        }
+    ]
+}

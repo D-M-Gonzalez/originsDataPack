@@ -1,0 +1,25 @@
+{
+    "name": "Items iniciales",
+    "description": "Los guerreros comienzan con un set de cuero, espada y escudo.\n",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:stone_sword"
+        },
+        {
+            "item": "minecraft:shield"
+        },
+        {
+            "item": "minecraft:leather_boots"
+        },
+        {
+            "item": "minecraft:leather_cap"
+        },
+        {
+            "item": "minecraft:leather_pants"
+        },
+        {
+            "item": "minecraft:leather_tunic"
+        }
+    ]
+}

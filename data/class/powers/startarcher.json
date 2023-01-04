@@ -1,0 +1,14 @@
+{
+    "name": "Items iniciales",
+    "description": "Los arqueros comienzan con un arco de madera y dos stack de flechas\n",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:bow"
+        },
+        {
+            "item": "minecraft:arrow",
+            "amount":128
+        }
+    ]
+}

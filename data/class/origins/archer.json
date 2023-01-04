@@ -2,6 +2,7 @@
     "name": "Arquero",
     "description": "Especializado en el daño a distancia, el arquero es ágil, y tiene afinidad con los animales.",
     "powers": [
+        "class:startarcher",
         "class:lessmelee",
         "class:nomagic",
         "class:vulnerable",
