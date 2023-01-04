@@ -1,0 +1,9 @@
+{
+    "name": "Habil aprendiz",
+    "description": "Tienes una habilidad innata, lo que te permite subir de nivel rapidamente",
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 1.5
+    }
+}

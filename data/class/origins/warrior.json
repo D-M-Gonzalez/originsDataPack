@@ -2,7 +2,9 @@
     "name": "Guerrero",
     "description": "Increiblemente fuerte, el guerrero es resistence, incansable y especializado en luchar cuerpo a cuerpo.",
     "powers": [
-        "class:lessranged"
+        "class:lessranged",
+        "class:nomagic",
+        "class:resistant"
     ],
     "icon": {
         "item": "minecraft:iron_sword",

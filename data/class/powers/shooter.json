@@ -1,0 +1,21 @@
+{
+    "name": "Hábil tirador ( e inimputable )",
+    "description": "Tu habilidad con el arco te permite moverte rapidamente al disparar",
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "multiply_total",
+        "value": 2.0,
+        "name": "Incrementa la velocidad al disparar"
+    },
+    "tick_rate": 5,
+    "condition": {
+        "type": "origins:using_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+                "ingredient": {
+                    "item": "minecraft:bow"
+                }
+        }
+    }
+}

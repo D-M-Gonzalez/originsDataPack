@@ -2,7 +2,10 @@
     "name": "Arquero",
     "description": "Especializado en el daño a distancia, el arquero es ágil, y tiene afinidad con los animales.",
     "powers": [
-        "class:lessmelee"
+        "class:lessmelee",
+        "class:nomagic",
+        "class:vulnerable",
+        "class:shooter"
     ],
     "icon": {
         "item": "minecraft:bow",

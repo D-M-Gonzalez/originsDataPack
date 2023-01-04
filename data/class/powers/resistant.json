@@ -1,0 +1,12 @@
+{
+    "name": "Vulnerable",
+    "description": "Recibes menos daño de todas las criaturas.",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "value": 0.75,
+        "operation": "multiply_total"
+    },
+    "damage_condition": {
+        "type": "origins:attacker"
+    }
+}
