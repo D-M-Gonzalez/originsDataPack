@@ -1,0 +1,22 @@
+{
+  "name": "Unfit for magic",
+  "description": "Villager's can do anything, but they have a hard time with magic.\n",
+  "type": "origins:attribute",
+  "modifiers": [
+    {
+      "attribute": "ars_nouveau:ars_nouveau.perk.percent.max.mana",
+      "operation": "multiply_total",
+      "value": -0.5
+    },
+    {
+      "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+      "operation": "multiply_total",
+      "value": -0.9
+    },
+    {
+      "attribute": "minecraft:generic_luck",
+      "operation": "multiply_total",
+      "value": 2.0
+    }
+  ]
+}

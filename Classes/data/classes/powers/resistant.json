@@ -1,0 +1,15 @@
+{
+  "name": "Hard as steel",
+  "description": "Warrior's do receive 30% less damage from all creatures.\n",
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+    "value": -0.3,
+    "operation": "multiply_base"
+  },
+  "damage_condition": {
+    "type": "origins:attacker",
+    "entity_condition": {
+      "type": "origins:living"
+    }
+  }
+}

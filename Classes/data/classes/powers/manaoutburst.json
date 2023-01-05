@@ -1,0 +1,37 @@
+{
+  "name": "Mana outburst",
+  "description": "Mages are incredibly frail, and they know this, and because of this extreme fear they explode on lethal damage every 3 minutes.\n",
+  "type": "origins:multiple",
+  "cooldown": {
+    "type": "origins:cooldown",
+    "cooldown": 6000
+  },
+  "prevent": {
+    "type": "origins:prevent_death",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:trigger_cooldown",
+          "power": "*:*_cooldown"
+        },
+        {
+          "type": "origins:clear_effect"
+        },
+        {
+          "type": "origins:explode",
+          "power": 5,
+          "destruction_type": "none",
+          "damage_self": false,
+          "create_fire": false
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_cooldown",
+      "comparison": "==",
+      "compare_to": 0
+    }
+  }
+}

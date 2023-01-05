@@ -1,0 +1,14 @@
+{
+  "name": "Mage",
+  "description": "Master of the elements and summons, mages are rather fragile but they are incredibly powerful as they can cast destruction from afar.",
+  "powers": [
+    "classes:initmage",
+    "classes:manaoutburst",
+    "classes:quicklearner",
+    "classes:fireaffinity",
+    "classes:lessmelee50"
+  ],
+  "icon": "minecraft:blaze_powder",
+  "impact": 3,
+  "order": 4
+}

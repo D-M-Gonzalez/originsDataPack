@@ -1,7 +1,0 @@
-{
-    "name": "Ligero",
-    "description": "Tu agilidad te permite caer más lento que el resto.",
-    "type": "origins:modify_falling",
-    "velocity": 0.04,
-    "take_fall_damage": true
-}

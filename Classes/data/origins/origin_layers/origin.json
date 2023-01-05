@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "classes:villager",
+    "classes:archer",
+    "classes:mage",
+    "classes:warrior"
+  ],
+  "replace": true
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Sharpshooter",
+  "description": "Archer's can sneak and use a bow at normal movement speed.\n",
+  "type": "origins:conditioned_attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "operation": "multiply_total",
+    "value": 1.65
+  },
+  "tick_rate": 1,
+  "condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:using_item",
+        "item_condition": {
+          "type": "origins:or",
+          "conditions": [
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "minecraft:bow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "minecraft:crossbow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "magistuarmory:heavy_crossbow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "magistuarmory:longbow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "ironbows:diamond_bow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "ironbows:golden_bow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "ironbows:iron_bow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "ironbows:netherite_bow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "aquaculture:neptunium_bow"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "origins:sneaking"
+      }
+    ]
+  }
+}

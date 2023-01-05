@@ -1,0 +1,47 @@
+{
+  "name": "Starting gear",
+  "description": "Archers do start with these items:\n -Bow and 128 arrows\n -Basic leather armor\n",
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:bow"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:arrow",
+          "amount": 128
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:leather_leggings"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "magistuarmory:coif"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "magistuarmory:gambeson_boots"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "magistuarmory:gambeson_chestplate"
+        }
+      }
+    ]
+  }
+}

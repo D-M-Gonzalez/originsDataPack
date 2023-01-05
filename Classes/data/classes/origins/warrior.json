@@ -1,0 +1,16 @@
+{
+  "name": "Warrior",
+  "description": "The strongest in the entire minecraft world. They excel at melee combat and can survive extreme damages.\n Warrior's do not fear death, and usually can stand alive where others would die.",
+  "powers": [
+    "classes:initwarrior",
+    "classes:resistant",
+    "classes:secondwind",
+    "classes:moremelee25",
+    "classes:resilient",
+    "classes:lessranged50",
+    "classes:nomagic"
+  ],
+  "icon": "minecraft:iron_sword",
+  "impact": 2,
+  "order": 2
+}

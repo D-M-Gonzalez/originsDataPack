@@ -1,0 +1,40 @@
+{
+  "name": "Second wind",
+  "description": "Fearless as they are, they can survive extreme damage every 3 minutes when in lethal range.\n",
+  "type": "origins:multiple",
+  "cooldown": {
+    "type": "origins:cooldown",
+    "cooldown": 6000
+  },
+  "prevent": {
+    "type": "origins:prevent_death",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:trigger_cooldown",
+          "power": "*:*_cooldown"
+        },
+        {
+          "type": "origins:clear_effect"
+        },
+        {
+          "type": "origins:apply_effect",
+          "effects": [
+            {
+              "effect": "minecraft:resistance",
+              "duration": 100,
+              "amplifier": 6
+            }
+          ]
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_cooldown",
+      "comparison": "==",
+      "compare_to": 0
+    }
+  }
+}

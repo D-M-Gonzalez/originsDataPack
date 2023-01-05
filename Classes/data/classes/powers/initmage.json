@@ -1,0 +1,40 @@
+{
+  "name": "Starting gear",
+  "description": "Mages do start with these items:\n -Initiate book\n -Basic cloth armor\n",
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "ars_nouveau:novice_spell_book"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "toughasnails:wool_boots"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "toughasnails:wool_chestplate"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "toughasnails:wool_helmet"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "toughasnails:wool_leggings"
+        }
+      }
+    ]
+  }
+}

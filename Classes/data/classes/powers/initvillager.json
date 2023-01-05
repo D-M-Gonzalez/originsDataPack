@@ -1,0 +1,47 @@
+{
+  "name": "Starting gear",
+  "description": "Villager do start with these items:\n -Basic tools\n -Food and water\n",
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:stone_pickaxe"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:stone_hoe"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:stone_axe"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:stone_shovel"
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:cooked_chicken",
+          "amount": 10
+        }
+      },
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "toughasnails:purified_water_canteen"
+        }
+      }
+    ]
+  }
+}

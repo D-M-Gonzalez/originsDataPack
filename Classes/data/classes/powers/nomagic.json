@@ -1,0 +1,28 @@
+{
+  "name": "Can't read magic books",
+  "description": "Can't use any of the spellcasting books.\n",
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "ars_nouveau:novice_spell_book"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "ars_nouveau:apprentice_spell_book"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "ars_nouveau:archmage_spell_book"
+        }
+      }
+    ]
+  }
+}

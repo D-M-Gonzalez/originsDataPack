@@ -1,0 +1,9 @@
+{
+  "name": "Perfect aim",
+  "description": "25% increase of ranged damage.\n",
+  "type": "origins:modify_projectile_damage",
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 0.25
+  }
+}

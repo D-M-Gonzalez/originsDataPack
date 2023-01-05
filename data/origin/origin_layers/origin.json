@@ -1,8 +1,0 @@
-{
-    "origins": [
-        "class:archer",
-		"class:mage",
-		"class:warrior"
-    ],
-    "enabled": true
-}
