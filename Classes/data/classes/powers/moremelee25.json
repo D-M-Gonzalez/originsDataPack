@@ -1,6 +1,6 @@
 {
   "name": "Skilled and strong",
-  "description": "25% increase of melee damage.\n",
+  "description": "Increases attack damage by 25% for all melee weapons.\n",
   "type": "origins:modify_damage_dealt",
   "damage_condition": {
     "inverted": true,

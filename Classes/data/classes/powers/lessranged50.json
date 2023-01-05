@@ -1,6 +1,6 @@
 {
   "name": "Bad aim",
-  "description": "50% reduction of ranged damage for all weapons.\n",
+  "description": "Reduces attack damage by 25% for all ranged weapons.\n",
   "type": "origins:modify_projectile_damage",
   "modifier": {
     "operation": "multiply_total",

@@ -1,7 +1,11 @@
 {
   "name": "Villager",
   "description": "Villagers do not excel at anything, no one knows how they survive in this harsh world.\n Maybe they are extremely lucky?",
-  "powers": ["classes:initvillager", "classes:nomanaregen"],
+  "powers": [
+    "classes:initvillager",
+    "classes:survivalist",
+    "classes:nomanaregen"
+  ],
   "icon": "minecraft:wooden_axe",
   "impact": 1,
   "order": 1

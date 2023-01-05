@@ -1,0 +1,15 @@
+{
+  "name": "Survivalist",
+  "description": "Villagers know very well how to survive, they do receive normal damage.\n",
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+    "value": -0.15,
+    "operation": "multiply_base"
+  },
+  "damage_condition": {
+    "type": "origins:attacker",
+    "entity_condition": {
+      "type": "origins:living"
+    }
+  }
+}

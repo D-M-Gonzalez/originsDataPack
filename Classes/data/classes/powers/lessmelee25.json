@@ -1,6 +1,6 @@
 {
   "name": "Melee weakness",
-  "description": "25% reduction of melee damage for all weapons.\n",
+  "description": "Reduces attack damage by 25% for all melee weapons.\n",
   "type": "origins:modify_damage_dealt",
   "damage_condition": {
     "inverted": true,
