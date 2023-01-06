@@ -40,6 +40,14 @@
         "stack": {
           "item": "minecraft:leather_boots"
         }
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "attribute @p generic.max_health base set 40"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "recipe give @p *"
       }
     ]
   }

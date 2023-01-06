@@ -41,6 +41,14 @@
         "stack": {
           "item": "toughasnails:purified_water_canteen"
         }
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "attribute @p generic.max_health base set 34"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "recipe give @p *"
       }
     ]
   }

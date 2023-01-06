@@ -34,6 +34,14 @@
         "stack": {
           "item": "toughasnails:wool_leggings"
         }
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "attribute @p generic.max_health base set 24"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "recipe give @p *"
       }
     ]
   }

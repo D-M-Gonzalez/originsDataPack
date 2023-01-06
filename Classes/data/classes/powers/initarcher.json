@@ -41,6 +41,14 @@
         "stack": {
           "item": "magistuarmory:gambeson_chestplate"
         }
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "attribute @p generic.max_health base set 30"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "recipe give @p *"
       }
     ]
   }
