@@ -50,5 +50,9 @@
         "command": "recipe give @p *"
       }
     ]
+  },
+  "entity_action_respawned": {
+    "type": "origins:execute_command",
+    "command": "attribute @p generic.max_health base set 40"
   }
 }

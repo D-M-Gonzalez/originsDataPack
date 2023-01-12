@@ -1,0 +1,182 @@
+[
+  {
+    "mob": "hmag:alraune",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:dullahan",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:banshee",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:crimson_slaughterer",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:dogu",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:drowned_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:dyssomnia",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:fortress_keeper",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:giant_mummy",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:harpy",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:hornet",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:husk_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:jack_frost",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:kasha",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:lich",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:melty_monster",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:monolith",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:necrotic_reaper",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:ogre",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:scorpion",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:skeleton_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:slime_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:stray_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:wither_skeleton_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:zombie_girl",
+    "removeall": true
+  },
+  {
+    "mob": "hmag:spider_nest",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:dark_vortex",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:bone_imp",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:skeleton_bomb",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:zombieswith_door",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:diamond_thermite",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:phantom_creeper",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:bonescaller",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:wither_strider",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:fallen_chaos_knight",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:skeleton_thrasher",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:restless_spirit",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:scarletpersecutor",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:shy_spirit",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:dread_hound",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:firelight",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:ser_pumpkinhead",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:nightmare_stalker",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:seared_spirit",
+    "removeall": true
+  },
+  {
+    "mob": "born_in_chaos_v1:supreme_bonecaller",
+    "removeall": true
+  }
+]

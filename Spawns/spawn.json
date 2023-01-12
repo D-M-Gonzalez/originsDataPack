@@ -1,0 +1,214 @@
+[
+  {
+    "mob": ["ars_nouveau:wilden_stalker", "ars_nouveau:wilden_hunter"],
+    "maxlight": 1,
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:dark_vortex",
+      "born_in_chaos_v1:restless_spirit",
+      "born_in_chaos_v1:scarletpersecutor",
+      "born_in_chaos_v1:shy_spirit",
+      "hmag:banshee"
+    ],
+    "maxlight": 1,
+    "biome": [
+      "minecraft:dark_forest",
+      "minecraft:mangrove_swamp",
+      "minecraft:swamp"
+    ],
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:bone_imp",
+      "born_in_chaos_v1:dread_hound",
+      "born_in_chaos_v1:firelight",
+      "born_in_chaos_v1:skeleton_bomb",
+      "hmag:scorpion"
+    ],
+    "biome": [
+      "minecraft:badlands",
+      "minecraft:desert",
+      "minecraft:eroded_badlands"
+    ],
+    "maxlight": 1,
+    "result": "allow"
+  },
+  {
+    "mob": ["hmag:zombie_girl"],
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:baby_skeleton",
+      "born_in_chaos_v1:decaying_zombie",
+      "born_in_chaos_v1:decrepit_skeleton",
+      "born_in_chaos_v1:zombiesina_barrel"
+    ],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "healthmultiply": 2,
+    "damagemultiply": 2,
+    "result": "default"
+  },
+  {
+    "mob": ["hmag:harpy", "hmag:dyssomnia"],
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "hmag:alraune",
+    "customname": "Alraune",
+    "biome": ["minecraft:lush_caves", "minecraft:jungle"],
+    "angry": true,
+    "healthmultiply": 2.5,
+    "damagemultiply": 1.5,
+    "speedmultiply": 1.5,
+    "potion": ["minecraft:haste,10000,1", "minecraft:glowing,10000,1"],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "born_in_chaos_v1:nightmare_stalker",
+    "customname": "The Nightmare",
+    "biome": [
+      "minecraft:dark_forest",
+      "minecraft:mangrove_swamp",
+      "minecraft:swamp"
+    ],
+    "angry": true,
+    "maxlight": 1,
+    "healthmultiply": 4,
+    "damagemultiply": 1.5,
+    "potion": ["minecraft:glowing,10000,1"],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "hmag:hornet",
+    "customname": "The Bee Queen",
+    "biome": ["minecraft:forest", "minecraft:taiga"],
+    "angry": true,
+    "healthmultiply": 3,
+    "damagemultiply": 1.5,
+    "speedmultiply": 2,
+    "potion": ["minecraft:haste,10000,1", "minecraft:glowing,10000,1"],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "born_in_chaos_v1:seared_spirit",
+    "customname": "The Scarecrow",
+    "biome": [
+      "minecraft:badlands",
+      "minecraft:desert",
+      "minecraft:eroded_badlands"
+    ],
+    "angry": true,
+    "healthmultiply": 3,
+    "speedmultiply": 2,
+    "damagemultiply": 1.5,
+    "potion": ["minecraft:haste,10000,1", "minecraft:glowing,10000,1"],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "hmag:jack_frost",
+    "customname": "The Frozen Queen",
+    "biome": [
+      "minecraft:frozen_peaks",
+      "minecraft:frozen_river",
+      "minecraft:ice_spikes"
+    ],
+    "angry": true,
+    "healthmultiply": 3,
+    "speedmultiply": 2,
+    "damagemultiply": 2,
+    "potion": [
+      "minecraft:haste,10000,1",
+      "minecraft:jump_boost,10000,5",
+      "minecraft:slow_falling,10000,1",
+      "minecraft:glowing,10000,1"
+    ],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "hmag:ogre",
+    "customname": "Mountain Lord",
+    "angry": true,
+    "healthmultiply": 4,
+    "minheight": 128,
+    "potion": ["minecraft:haste,10000,0", "minecraft:glowing,10000,1"],
+    "playerhelditem": "minecraft:soul_torch",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "hmag:husk_girl",
+      "hmag:slime_girl",
+      "hmag:wither_skeleton_girl",
+      "born_in_chaos_v1:dark_vortex",
+      "born_in_chaos_v1:bone_imp",
+      "born_in_chaos_v1:skeleton_bomb",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:phantom_creeper",
+      "born_in_chaos_v1:bonescaller",
+      "born_in_chaos_v1:wither_strider",
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "maxheight": 63,
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "minecraft:skeleton",
+      "minecraft:creeper",
+      "minecraft:spider",
+      "minecraft:zombie"
+    ],
+    "maxheight": 63,
+    "incontrol": false,
+    "result": "deny"
+  },
+  {
+    "mob": ["ars_nouveau:wilden_stalker", "ars_nouveau:wilden_hunter"],
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mod": "born_in_chaos_v1",
+    "result": "deny"
+  },
+  {
+    "mod": "hmag",
+    "result": "deny"
+  }
+]

@@ -3,6 +3,7 @@
   "description": "Archers are specialized in ranged combat. They are agile and can perform movement actions quicker than most.\n",
   "powers": [
     "classes:initarcher",
+    "classes:extraarrows",
     "classes:moreranged25",
     "classes:shooter",
     "origins-classes:no_projectile_divergence",

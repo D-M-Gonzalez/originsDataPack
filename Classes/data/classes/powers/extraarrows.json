@@ -1,0 +1,10 @@
+{
+  "name": "Extra arrows",
+  "description": "Archers are skilled in the arrow craft, they can do more arrows per feather used.\n",
+  "type": "origins:modify_crafting",
+  "recipe": "minecraft:arrow",
+  "result": {
+    "item": "minecraft:arrow",
+    "amount": 8
+  }
+}

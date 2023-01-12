@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fullmoon",
+    "conditions": {
+      "daycount": 8
+    }
+  },
+  {
+    "name": "thunder",
+    "conditions": {
+      "weather": "rain"
+    }
+  }
+]
