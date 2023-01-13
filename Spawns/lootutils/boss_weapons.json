@@ -1,0 +1,92 @@
+[
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "hmag:insomnia_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "hmag:nemesis_blade",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.01
+  },
+  {
+    "mob": [],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.01
+  }
+]
