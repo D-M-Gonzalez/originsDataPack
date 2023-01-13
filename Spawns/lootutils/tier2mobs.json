@@ -1,0 +1,24 @@
+{
+  "mobs": [
+    "lava_monster:lava_monster",
+    "magma_monsters:magma_monster",
+    "hmag:husk_girl",
+    "hmag:lich",
+    "hmag:melty_monster",
+    "hmag:slime_girl",
+    "born_in_chaos_v1:zombieswith_door",
+    "born_in_chaos_v1:bonescaller",
+    "born_in_chaos_v1:wither_strider",
+    "born_in_chaos_v1:zombie_clown",
+    "minecraft:blaze",
+    "minecraft:enderman",
+    "minecraft:evoker",
+    "minecraft:ghast",
+    "minecraft:hoglin",
+    "minecraft:magma_cube",
+    "minecraft:piglin_brute",
+    "minecraft:vex",
+    "minecraft:zombified_piglin",
+    "minecraft:zoglin"
+  ]
+}

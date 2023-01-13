@@ -1,0 +1,758 @@
+[
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:antidote_vessel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:aqua_dashers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:bunny_hoppers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:charm_of_sinking",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:cloud_in_a_bottle",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:cross_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:crystal_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:digging_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:eternal_steak",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:everlasting_beef",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:feral_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:fire_gauntlet",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:flame_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:flippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:golden_hook",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:helium_flamingo",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:kitty_slippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:lucky_scarf",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:mimic_spawn_egg",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:night_vision_goggles",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:novelty_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:obsidian_skull",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:panic_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:plastic_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:pocket_piston",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:power_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:running_shoes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:scarf_of_invisibility",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:shock_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:snorkel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:steadfast_spikes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:superstitious_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:thorn_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:umbrella",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:universal_attractor",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:vampiric_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:villager_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "artifacts:whoopee_cushion",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_dolphin",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_experience",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_fire_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_flight",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_growth",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_health",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_hungerless",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_invisibility",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_jump_boost",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_knockback_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_luck",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_magnetism",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_mining",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_night_vision",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_poison_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_regeneration",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_falling",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_speed",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_sponge",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_strength",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_undying",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_breathing",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_walking",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:hornet",
+      "hmag:jack_frost",
+      "hmag:ogre",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_wither",
+    "random": 0.003
+  }
+]

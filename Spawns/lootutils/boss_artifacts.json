@@ -1,0 +1,192 @@
+[
+  {
+    "mob": [],
+    "item": "artifacts:antidote_vessel",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:aqua_dashers",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:bunny_hoppers",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:charm_of_sinking",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:cloud_in_a_bottle",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:cross_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:crystal_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:digging_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:eternal_steak",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:everlasting_beef",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:feral_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:fire_gauntlet",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:flame_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:flippers",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:golden_hook",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:helium_flamingo",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:kitty_slippers",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:lucky_scarf",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:mimic_spawn_egg",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:night_vision_goggles",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:novelty_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:obsidian_skull",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:panic_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:plastic_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:pocket_piston",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:power_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:running_shoes",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:scarf_of_invisibility",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:shock_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:snorkel",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:steadfast_spikes",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:superstitious_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:thorn_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:umbrella",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:universal_attractor",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:vampiric_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:villager_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "artifacts:whoopee_cushion",
+    "random": 0.005
+  }
+]

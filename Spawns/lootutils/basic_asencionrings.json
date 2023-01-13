@@ -1,0 +1,127 @@
+[
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_dolphin",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_experience",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_fire_resistance",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_flight",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_growth",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_health",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_hungerless",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_invisibility",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_jump_boost",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_knockback_resistance",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_luck",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_magnetism",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_mining",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_night_vision",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_poison_resistance",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_regeneration",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_slow_falling",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_slow_resistance",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_speed",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_sponge",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_strength",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_undying",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_water_breathing",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_water_walking",
+    "random": 0.001
+  },
+  {
+    "mob": [],
+    "item": "ringsofascension:ring_wither",
+    "random": 0.001
+  }
+]
