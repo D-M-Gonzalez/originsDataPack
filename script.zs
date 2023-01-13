@@ -1,6 +1,5 @@
 import crafttweaker.api.item.IItemStack;
 
-craftingTable.remove(<item:ironbows:emerald_bow>);
 craftingTable.remove(<item:xtraarrows:netherite_arrow>);
 craftingTable.remove(<item:xtraarrows:diamond_arrow>);
 craftingTable.remove(<item:xtraarrows:golden_arrow>);

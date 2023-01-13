@@ -10,5 +10,12 @@
     "conditions": {
       "weather": "rain"
     }
+  },
+  {
+    "name": "night",
+    "conditions": {
+      "mintime": 13000,
+      "maxtime": 23000
+    }
   }
 ]
