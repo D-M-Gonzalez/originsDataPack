@@ -101,7 +101,7 @@ craftingTable.addShaped("ancient_leggings",
     <item:minecraft:rotten_flesh>,
     <item:minecraft:diamond>],
     [<item:minecraft:diamond>, 
-    <item:minecraft:diamond>,
+    <item:minecraft:air>,
     <item:minecraft:diamond>]
     ]
     );
