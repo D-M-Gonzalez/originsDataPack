@@ -43,25 +43,43 @@
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "item": "ironbows:diamond_bow"
+                "item": "archbows:arbalest"
               }
             },
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "item": "ironbows:golden_bow"
+                "item": "archbows:flatbow"
               }
             },
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "item": "ironbows:iron_bow"
+                "item": "archbows:heavy_crossbow"
               }
             },
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "item": "ironbows:netherite_bow"
+                "item": "archbows:longbow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "archbows:pistol_crossbow"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "archbows:recurve"
+              }
+            },
+            {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "archbows:shortbow"
               }
             },
             {
