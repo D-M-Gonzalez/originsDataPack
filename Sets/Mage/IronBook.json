@@ -1,0 +1,23 @@
+{
+  "armorSetName": "Iron Mage Set",
+  "mainHand": {
+    "itemKey": "ars_nouveau:novice_spell_book"
+  },
+  "offHand": {
+    "itemKey": "minecraft:iron_sword"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 1.0,
+      "modifierUUID": "1e01fee4-eb78-4dcd-bc8b-d7e1e17c03bd",
+      "description": "+1 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

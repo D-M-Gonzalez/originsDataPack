@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Gothic Set",
+  "head": {
+    "itemKey": "magistuarmory:face_helmet"
+  },
+  "chest": {
+    "itemKey": "magistuarmory:gothic_chestplate"
+  },
+  "legs": {
+    "itemKey": "magistuarmory:gothic_leggings"
+  },
+  "boots": {
+    "itemKey": "magistuarmory:gothic_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 2.0,
+      "modifierUUID": "5e372f26-19bc-4a70-83a5-f8a42d544057",
+      "description": "+2 Attack Damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 4.0,
+      "modifierUUID": "528eb469-d86e-4208-9fad-9ce72445afd2",
+      "description": "+2 Hearts",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

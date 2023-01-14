@@ -1,0 +1,29 @@
+{
+  "armorSetName": "Novice Set",
+  "head": {
+    "itemKey": "ars_nouveau:novice_hood"
+  },
+  "chest": {
+    "itemKey": "ars_nouveau:novice_robes"
+  },
+  "legs": {
+    "itemKey": "ars_nouveau:novice_leggings"
+  },
+  "boots": {
+    "itemKey": "ars_nouveau:novice_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 2.0,
+      "modifierUUID": "666b3eab-d099-440e-9265-4e40b0dc7742",
+      "description": "+2 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

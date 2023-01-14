@@ -1,0 +1,23 @@
+{
+  "armorSetName": "Diamond Mage Set",
+  "mainHand": {
+    "itemKey": "ars_nouveau:archmage_spell_book"
+  },
+  "offHand": {
+    "itemKey": "minecraft:diamond_sword"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 3.0,
+      "modifierUUID": "f636ab6f-fb6e-4db2-9fe0-b7004637e417",
+      "description": "+3 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

@@ -1,0 +1,29 @@
+{
+  "armorSetName": "Leather Set",
+  "head": {
+    "itemKey": "minecraft:leather_boots"
+  },
+  "chest": {
+    "itemKey": "minecraft:leather_chestplate"
+  },
+  "legs": {
+    "itemKey": "minecraft:leather_helmet"
+  },
+  "boots": {
+    "itemKey": "minecraft:leather_leggings"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "projectile_damage:generic",
+      "value": 1.0,
+      "modifierUUID": "b814a781-a379-4f61-ae24-cdd334c03705",
+      "description": "+1 ranged damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

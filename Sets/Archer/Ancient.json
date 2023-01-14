@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Ancient Set",
+  "head": {
+    "itemKey": "hmag:ancient_helmet"
+  },
+  "chest": {
+    "itemKey": "hmag:ancient_chestplate"
+  },
+  "legs": {
+    "itemKey": "hmag:ancient_leggings"
+  },
+  "boots": {
+    "itemKey": "hmag:ancient_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.01,
+      "modifierUUID": "e6649a12-121d-4ad6-805d-13a8520cb38f",
+      "description": "+10% movement speed",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "projectile_damage:generic",
+      "value": 2.0,
+      "modifierUUID": "78202b1c-de87-4027-815e-9e67175127ed",
+      "description": "+2 ranged damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

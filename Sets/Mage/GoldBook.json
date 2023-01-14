@@ -1,0 +1,23 @@
+{
+  "armorSetName": "Gold Mage Set",
+  "mainHand": {
+    "itemKey": "ars_nouveau:apprentice_spell_book"
+  },
+  "offHand": {
+    "itemKey": "minecraft:golden_sword"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 2.0,
+      "modifierUUID": "bce93d39-c5bd-47dc-9bdc-8e5572e717f3",
+      "description": "+2 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}
