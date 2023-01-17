@@ -1,6 +1,8 @@
 [
   {
     "mob": ["ars_nouveau:wilden_stalker", "ars_nouveau:wilden_hunter"],
+    "dimension": "minecraft:overworld",
+    "random": 0.01,
     "maxlight": 0,
     "mintime": 13000,
     "maxtime": 23000,
@@ -14,12 +16,14 @@
       "born_in_chaos_v1:shy_spirit",
       "hmag:banshee"
     ],
+    "dimension": "minecraft:overworld",
     "maxlight": 0,
     "biome": [
       "minecraft:dark_forest",
       "minecraft:mangrove_swamp",
       "minecraft:swamp"
     ],
+    "random": 0.01,
     "mintime": 13000,
     "maxtime": 23000,
     "result": "allow"
@@ -32,11 +36,13 @@
       "born_in_chaos_v1:skeleton_bomb",
       "hmag:scorpion"
     ],
+    "dimension": "minecraft:overworld",
     "biome": [
       "minecraft:badlands",
       "minecraft:desert",
       "minecraft:eroded_badlands"
     ],
+    "random": 0.01,
     "mintime": 13000,
     "maxtime": 23000,
     "maxlight": 0,
@@ -44,6 +50,8 @@
   },
   {
     "mob": ["hmag:zombie_girl"],
+    "dimension": "minecraft:overworld",
+    "random": 0.01,
     "maxlight": 0,
     "mintime": 13000,
     "maxtime": 23000,
@@ -57,6 +65,8 @@
       "born_in_chaos_v1:decrepit_skeleton",
       "born_in_chaos_v1:zombiesina_barrel"
     ],
+    "random": 0.05,
+    "dimension": "minecraft:overworld",
     "result": "default"
   },
   {
@@ -66,7 +76,8 @@
     "result": "default"
   },
   {
-    "mob": ["hmag:harpy", "hmag:dyssomnia"],
+    "mob": ["hmag:harpy"],
+    "dimension": "minecraft:overworld",
     "mintime": 13000,
     "maxtime": 23000,
     "incontrol": true,
@@ -77,10 +88,7 @@
     "customname": "Alraune",
     "biome": ["minecraft:lush_caves", "minecraft:jungle"],
     "angry": true,
-    "healthmultiply": 2.5,
-    "damagemultiply": 1.5,
-    "speedmultiply": 1.5,
-    "potion": ["minecraft:haste,10000,1", "minecraft:glowing,10000,1"],
+    "potion": ["minecraft:glowing,10000,1"],
     "playerhelditem": "minecraft:soul_torch",
     "dimension": "minecraft:overworld",
     "incontrol": true,
@@ -110,10 +118,7 @@
     "biome": ["minecraft:forest", "minecraft:taiga"],
     "maxlight": 0,
     "angry": true,
-    "healthmultiply": 3,
-    "damagemultiply": 1.5,
-    "speedmultiply": 2,
-    "potion": ["minecraft:haste,10000,1", "minecraft:glowing,10000,1"],
+    "potion": ["minecraft:glowing,10000,1"],
     "playerhelditem": "minecraft:soul_torch",
     "dimension": "minecraft:overworld",
     "incontrol": true,
@@ -146,9 +151,6 @@
       "minecraft:ice_spikes"
     ],
     "angry": true,
-    "healthmultiply": 3,
-    "speedmultiply": 2,
-    "damagemultiply": 2,
     "potion": [
       "minecraft:haste,10000,1",
       "minecraft:jump_boost,10000,5",
@@ -164,9 +166,8 @@
     "mob": "hmag:ogre",
     "customname": "Mountain Lord",
     "angry": true,
-    "healthmultiply": 4,
     "minheight": 128,
-    "potion": ["minecraft:haste,10000,0", "minecraft:glowing,10000,1"],
+    "potion": ["minecraft:glowing,10000,1"],
     "playerhelditem": "minecraft:soul_torch",
     "dimension": "minecraft:overworld",
     "incontrol": true,
@@ -194,9 +195,15 @@
       "hmag:giant_mummy",
       "hmag:dullahan"
     ],
+    "dimension": "minecraft:overworld",
     "maxheight": 20,
     "incontrol": true,
     "result": "allow"
+  },
+  {
+    "mod": "minecraft",
+    "spawner": true,
+    "result": "default"
   },
   {
     "mob": [
@@ -214,12 +221,33 @@
     "result": "deny"
   },
   {
-    "dimension": "minecraft:overworld",
     "mod": "born_in_chaos_v1",
     "result": "deny"
   },
   {
+    "mob": [
+      "lava_monster:lava_monster",
+      "magma_monsters:magma_monster",
+      "magma_monsters:magma_monster_grunt",
+      "hmag:melty_monster"
+    ],
+    "incontrol": false,
+    "result": "deny"
+  },
+  {
     "mod": "hmag",
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "random": 0.95,
+    "mod": "minecraft",
+    "hostile": true,
+    "spawner": false,
+    "result": "deny"
+  },
+  {
+    "mod": "majruszsdifficulty",
     "result": "deny"
   }
 ]

@@ -9,7 +9,8 @@
     "origins-classes:no_projectile_divergence",
     "classes:slowfall",
     "classes:nomagic",
-    "classes:lessmelee25"
+    "classes:lessmelee25",
+    "classes:summon"
   ],
   "icon": "minecraft:bow",
   "impact": 2,

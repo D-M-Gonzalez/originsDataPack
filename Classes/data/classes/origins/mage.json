@@ -6,7 +6,8 @@
     "classes:manaoutburst",
     "classes:quicklearner",
     "classes:fireaffinity",
-    "classes:lessmelee50"
+    "classes:lessmelee50",
+    "classes:summon"
   ],
   "icon": "minecraft:blaze_powder",
   "impact": 3,

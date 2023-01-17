@@ -8,7 +8,8 @@
     "classes:moremelee25",
     "classes:resilient",
     "classes:lessranged50",
-    "classes:nomagic"
+    "classes:nomagic",
+    "classes:summon"
   ],
   "icon": "minecraft:iron_sword",
   "impact": 2,

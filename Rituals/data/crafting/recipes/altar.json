@@ -1,0 +1,17 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "minecraft:zombie_head" },
+  "outputs": [
+    {
+      "mob": "hmag:lich",
+      "count": 1,
+      "data": "{Attributes:[{Base:50.0d,Name:\"generic.max_health\"}],Health:150.0d}",
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 4, "y": 0, "z": 4 }
+    }
+  ],
+  "inputs": [{ "ingredient": { "item": "minecraft:bone" }, "count": 8 }],
+  "recipe_time": 100,
+  "day_time": "NIGHT",
+  "weather": "RAIN"
+}

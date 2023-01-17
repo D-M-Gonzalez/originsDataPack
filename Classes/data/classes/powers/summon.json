@@ -1,0 +1,14 @@
+{
+  "name": "Undeas",
+  "description": "asdasdasd",
+  "type": "origins:self_action_on_kill",
+  "target_condition": {
+    "type": "origins:entity_type",
+    "entity_type": "hmag:lich"
+  },
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "execute as @s run undeadarmy start"
+  },
+  "cooldown": 1
+}
