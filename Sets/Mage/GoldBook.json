@@ -1,9 +1,9 @@
 {
   "armorSetName": "Gold Mage Set",
-  "mainHand": {
+  "offHand": {
     "itemKey": "ars_nouveau:apprentice_spell_book"
   },
-  "offHand": {
+  "mainHand": {
     "itemKey": "minecraft:golden_sword"
   },
   "fullSetBonuses": [

@@ -1,9 +1,9 @@
 {
   "armorSetName": "Diamond Mage Set",
-  "mainHand": {
+  "offHand": {
     "itemKey": "ars_nouveau:archmage_spell_book"
   },
-  "offHand": {
+  "mainHand": {
     "itemKey": "minecraft:diamond_sword"
   },
   "fullSetBonuses": [
