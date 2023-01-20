@@ -1,0 +1,21 @@
+bossominium:golden_charm  es infinito
+bossominium:angelic_golden_sword   levitate en area
+bossominium:golden_eye_totem solo dura 3 golpes
+bossominium:ender_crystal_sword levita enemigos al pegarles
+bossominium:blood_cannon cañon re op   
+bossominium:dagger_of_en sumonea lava en todos lados muy op
+bossominium:dead_latern tracker de undead
+bossominium:dessert_necklace_chestplate una armadura fea
+bossominium:enderporter muy op teletransporta enemigos
+bossominium:fanged_bracelet sumonea mandibulas, una cagada
+bossominium:fanged_dagger daga ultra rapida
+bossominium:flame_eye consumible de fire resist
+bossominium:forest_mace aplica slow
+bossominium:golden_dagger daga mediocre
+bossominium:hell_charger blinker muy op
+bossominium:nether_igniter prende fuego mobs muy op
+bossominium:skelenado_chest_chestplate inmune a las flechas
+bossominium:soul_trapper atrapa mobs en soulsand
+bossominium:stone_shielder te atrapa en piedra
+bossominium:stone_shocker sumonea rayos bastante op
+bossominium:warped_wand sumonea lost spirits medio chota

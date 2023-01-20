@@ -1,0 +1,47 @@
+[
+  {
+    "mob": [],
+    "item": "bossominium:golden_charm",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:hell_charger",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:nether_igniter",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:soul_trapper",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:stone_shielder",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:stone_shocker",
+    "random": 0.05
+  },
+  {
+    "mob": [],
+    "item": "bossominium:warped_wand",
+    "random": 0.05
+  }
+]

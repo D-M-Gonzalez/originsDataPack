@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Enderium Set",
+  "head": {
+    "itemKey": "majruszsdifficulty:enderium_helmet"
+  },
+  "chest": {
+    "itemKey": "majruszsdifficulty:enderium_chestplate"
+  },
+  "legs": {
+    "itemKey": "majruszsdifficulty:enderium_leggings"
+  },
+  "boots": {
+    "itemKey": "majruszsdifficulty:enderium_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 5.0,
+      "modifierUUID": "0913f319-63cb-4884-90ba-e9b312fb362d",
+      "description": "+5 Attack Damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 12.0,
+      "modifierUUID": "83bcc24f-a2c8-46b0-ab41-e4ae9a047575",
+      "description": "+6 Hearts",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

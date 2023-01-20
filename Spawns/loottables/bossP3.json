@@ -1,0 +1,497 @@
+[
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "hmag:insomnia_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "hmag:nemesis_blade",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "itemcount": "1-5/2-8/3-10"
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "random": 0.5
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:mega_sponge",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:golem_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:eye_of_nebula",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:blazing_core",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:void_pearl",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:angel_blessing",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:monster_charm",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:etherium_sword",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:void_core",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:gauntlet_of_guard",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:bulwark_of_the_flame",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:hunter_guidebook",
+    "random": 0.005
+  }
+]

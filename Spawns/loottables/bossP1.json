@@ -1,0 +1,1080 @@
+[
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:antidote_vessel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:aqua_dashers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:bunny_hoppers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:charm_of_sinking",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:cloud_in_a_bottle",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:cross_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:crystal_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:digging_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:eternal_steak",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:everlasting_beef",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:feral_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:fire_gauntlet",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:flame_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:flippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:golden_hook",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:helium_flamingo",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:kitty_slippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:lucky_scarf",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:mimic_spawn_egg",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:night_vision_goggles",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:novelty_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:obsidian_skull",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:panic_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:plastic_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:pocket_piston",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:power_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:running_shoes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:scarf_of_invisibility",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:shock_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:snorkel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:steadfast_spikes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:superstitious_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:thorn_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:umbrella",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:universal_attractor",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:vampiric_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:villager_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:whoopee_cushion",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:dead_latern",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:flame_eye",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_dolphin",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_experience",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_fire_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_flight",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_growth",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_health",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_hungerless",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_invisibility",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_jump_boost",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_knockback_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_luck",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_magnetism",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_mining",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_night_vision",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_poison_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_regeneration",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_falling",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_speed",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_sponge",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_strength",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_undying",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_breathing",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_walking",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_wither",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "hmag:insomnia_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "hmag:nemesis_blade",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "random": 0.5
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "random": 0.01
+  }
+]

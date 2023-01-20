@@ -88,5 +88,25 @@
     "mob": [],
     "item": "ars_nouveau:enchanters_sword",
     "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:forest_mace",
+    "random": 0.0005
   }
 ]

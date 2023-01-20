@@ -6,6 +6,11 @@ craftingTable.remove(<item:xtraarrows:diamond_arrow>);
 craftingTable.remove(<item:xtraarrows:golden_arrow>);
 craftingTable.remove(<item:xtraarrows:iron_arrow>);
 craftingTable.remove(<item:minecraft:arrow>);
+//saca recetas de netherite
+smithing.remove(<item:minecraft:netherite_boots>);
+smithing.remove(<item:minecraft:netherite_chestplate>);
+smithing.remove(<item:minecraft:netherite_helmet>);
+smithing.remove(<item:minecraft:netherite_leggings>);
 //saca recetas de mods que no queremos
 craftingTable.removeByModid("hmag");
 craftingTable.removeByModid("born_in_chaos_v1");
@@ -15,6 +20,15 @@ craftingTable.removeByModid("bossominium");
 craftingTable.removeByModid("cataclysm");
 craftingTable.removeByModid("majruszsdifficulty");
 craftingTable.removeByModid("mcsmarmors");
+
+//recetas netherite
+smithing.addRecipe("netherite_boots", <item:minecraft:netherite_boots>, <item:majruszsdifficulty:romeum_boots>, <item:minecraft:netherite_ingot>);
+smithing.addRecipe("netherite_leggings", <item:minecraft:netherite_leggings>, <item:majruszsdifficulty:romeum_leggings>, <item:minecraft:netherite_ingot>);
+smithing.addRecipe("netherite_chestplate", <item:minecraft:netherite_chestplate>, <item:majruszsdifficulty:romeum_chestplate>, <item:minecraft:netherite_ingot>);
+smithing.addRecipe("netherite_helmet", <item:minecraft:netherite_helmet>, <item:majruszsdifficulty:romeum_helmet>, <item:minecraft:netherite_ingot>);
+//recetas ingots
+smithing.addRecipe("enderium_ingot", <item:majruszsdifficulty:enderium_ingot>, <item:mcsmarmors:romeumingot>, <item:minecraft:ender_eye>);
+smithing.addRecipe("dark_metal_ingot", <item:born_in_chaos_v1:dark_metal_ingot>, <item:minecraft:netherite_ingot>, <item:infernalexp:soul_salt_clump>);
 
 //receta tabla de rituales
 craftingTable.addShaped("ritual_table",<item:summoningrituals:altar>, [
@@ -184,5 +198,40 @@ craftingTable.addShaped("romeum_chestplate",
     [<item:mcsmarmors:romeum_plate>, 
     <item:mcsmarmors:romeum_plate>,
     <item:mcsmarmors:romeum_plate>]
+    ]
+    );
+
+//recetas misc
+
+craftingTable.addShaped("the_crorintion",
+<item:bossominium:the_crorintion>, [
+    [<item:bossominium:vex_wing>, <item:bossominium:vex_wing>, <item:bossominium:vex_wing>], 
+    [<item:bossominium:vex_wing>, 
+    <item:born_in_chaos_v1:ethereal_spirit>,
+    <item:bossominium:vex_wing>],
+    [<item:bossominium:vex_wing>, 
+    <item:bossominium:vex_wing>,
+    <item:bossominium:vex_wing>]
+    ]
+    );
+
+craftingTable.addShaped("skelonomicon",
+<item:bossominium:skelonomicon>, [
+    [<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>], 
+    [<item:minecraft:bone>, 
+    <item:born_in_chaos_v1:ethereal_spirit>,
+    <item:minecraft:bone>],
+    [<item:minecraft:bone>, 
+    <item:minecraft:bone>,
+    <item:minecraft:bone>]
+    ]
+    );
+    
+craftingTable.addShaped("runic_key",
+<item:bossominium:runic_key>, [
+    [<item:minecraft:air>, <item:supplementaries:key>, <item:minecraft:air>], 
+    [<item:minecraft:air>, 
+    <item:minecraft:ancient_debris>,
+    <item:minecraft:air>]
     ]
     );

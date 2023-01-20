@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Infused Romeum Set",
+  "head": {
+    "itemKey": "majruszsdifficulty:infused_romeum_helmet"
+  },
+  "chest": {
+    "itemKey": "majruszsdifficulty:infused_romeum_chestplate"
+  },
+  "legs": {
+    "itemKey": "majruszsdifficulty:infused_romeum_leggings"
+  },
+  "boots": {
+    "itemKey": "majruszsdifficulty:infused_romeum_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.012,
+      "modifierUUID": "df9a1966-4895-4e34-bb88-34d7024561b3",
+      "description": "+12% movement speed",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "projectile_damage:generic",
+      "value": 3.0,
+      "modifierUUID": "e76fef6d-5365-471d-a383-15975cf09d2f",
+      "description": "+3 ranged damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

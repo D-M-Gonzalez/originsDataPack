@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Dark Metal Set",
+  "head": {
+    "itemKey": "born_in_chaos_v1:dark_metal_armor_helmet"
+  },
+  "chest": {
+    "itemKey": "born_in_chaos_v1:dark_metal_armor_chestplate"
+  },
+  "legs": {
+    "itemKey": "born_in_chaos_v1:dark_metal_armor_leggings"
+  },
+  "boots": {
+    "itemKey": "born_in_chaos_v1:dark_metal_armor_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 5.0,
+      "modifierUUID": "8a6f3451-897d-429e-8724-bfde803d37d1",
+      "description": "+5 Attack Damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 18.0,
+      "modifierUUID": "6d8c376d-6d88-4636-8509-365bdadb18ed",
+      "description": "+9 Hearts",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

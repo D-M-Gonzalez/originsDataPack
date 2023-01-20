@@ -1,0 +1,29 @@
+{
+  "armorSetName": "Archmage Set",
+  "head": {
+    "itemKey": "ars_elemental:fire_hat"
+  },
+  "chest": {
+    "itemKey": "ars_elemental:fire_robes"
+  },
+  "legs": {
+    "itemKey": "ars_elemental:fire_leggings"
+  },
+  "boots": {
+    "itemKey": "ars_elemental:fire_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 12.0,
+      "modifierUUID": "8ccab7ac-23bc-40c6-ac21-b2957978a257",
+      "description": "+12 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

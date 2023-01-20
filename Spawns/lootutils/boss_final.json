@@ -1,0 +1,62 @@
+[
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:mega_sponge",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:golem_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:eye_of_nebula",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:blazing_core",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:void_pearl",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:angel_blessing",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:monster_charm",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:etherium_sword",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "cataclysm:void_core",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "cataclysm:gauntlet_of_guard",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "cataclysm:bulwark_of_the_flame",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "enigmaticlegacy:hunter_guidebook",
+    "random": 0.005
+  }
+]

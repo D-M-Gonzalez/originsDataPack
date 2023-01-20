@@ -267,6 +267,54 @@
     "mob": "majruszsdifficulty:tank",
     "remove": ["majruszsdifficulty:cloth"]
   },
+  {
+    "mob": "bossominium:badlands_colossal",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:crypt_mummy",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:cultisager",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:end_stone_sentinel",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:forest_guardian",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:golden_ring",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:hell_hound",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:lost_spirit",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:netherrack_heart",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:ruin",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:skelenado",
+    "removeall": true
+  },
+  {
+    "mob": "bossominium:vengeful_trader",
+    "removeall": true
+  },
 
   {
     "mob": [
@@ -783,1970 +831,2859 @@
   },
 
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:antidote_vessel",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:aqua_dashers",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:bunny_hoppers",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:charm_of_sinking",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:cloud_in_a_bottle",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:cross_necklace",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:crystal_heart",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:digging_claws",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:eternal_steak",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:everlasting_beef",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:feral_claws",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:fire_gauntlet",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:flame_pendant",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:flippers",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:golden_hook",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:helium_flamingo",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:kitty_slippers",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:lucky_scarf",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:mimic_spawn_egg",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:night_vision_goggles",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:novelty_drinking_hat",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:obsidian_skull",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:panic_necklace",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:plastic_drinking_hat",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:pocket_piston",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:power_glove",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:running_shoes",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:scarf_of_invisibility",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:shock_pendant",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:snorkel",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:steadfast_spikes",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:superstitious_hat",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:thorn_pendant",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:umbrella",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:universal_attractor",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:vampiric_glove",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:villager_hat",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "artifacts:whoopee_cushion",
     "random": 0.002
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
+    "item": "bossominium:dead_latern",
+    "random": 0.002
+  },
+  {
+    "mob": [],
+    "item": "bossominium:flame_eye",
+    "random": 0.002
+  },
+  {
+    "mob": [],
     "item": "ringsofascension:ring_dolphin",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_experience",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_fire_resistance",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_flight",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_growth",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_health",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_hungerless",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_invisibility",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_jump_boost",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_knockback_resistance",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_luck",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_magnetism",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_mining",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_night_vision",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_poison_resistance",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_regeneration",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_slow_falling",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_slow_resistance",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_speed",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_sponge",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_strength",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_undying",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_water_breathing",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_water_walking",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ringsofascension:ring_wither",
     "random": 0.001
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "enigmaticlegacy:forbidden_axe",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "enigmaticlegacy:enigmatic_amulet",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:spiritual_sword",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:dark_ritual_dagger",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:soul_cutlass",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:intoxicating_dagger",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:trident_hayfork",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:staffof_magic_arrows",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:staffofthe_summoner",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:nightmare_scythe",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:great_reaper_axe",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "born_in_chaos_v1:skullbreaker_hammer",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "hmag:insomnia_sword",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "hmag:nemesis_blade",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ars_nouveau:amulet_of_mana_boost",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ars_nouveau:amulet_of_mana_regen",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ars_nouveau:enchanters_shield",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
     "item": "ars_nouveau:enchanters_sword",
     "random": 0.0005
   },
   {
-    "mob": [
-      "majruszsdifficulty:tank",
-      "hmag:giant_mummy",
-      "born_in_chaos_v1:fallen_chaos_knight",
-      "born_in_chaos_v1:skeleton_thrasher",
-      "hmag:dullahan"
-    ],
+    "mob": [],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:forest_mace",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "random": 0.0005
+  },
+  {
+    "mob": [],
     "item": "born_in_chaos_v1:ethereal_spirit",
+    "random": 0.05
+  },
+
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:antidote_vessel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:aqua_dashers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:bunny_hoppers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:charm_of_sinking",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:cloud_in_a_bottle",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:cross_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:crystal_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:digging_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:eternal_steak",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:everlasting_beef",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:feral_claws",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:fire_gauntlet",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:flame_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:flippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:golden_hook",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:helium_flamingo",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:kitty_slippers",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:lucky_scarf",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:mimic_spawn_egg",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:night_vision_goggles",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:novelty_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:obsidian_skull",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:panic_necklace",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:plastic_drinking_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:pocket_piston",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:power_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:running_shoes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:scarf_of_invisibility",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:shock_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:snorkel",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:steadfast_spikes",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:superstitious_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:thorn_pendant",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:umbrella",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:universal_attractor",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:vampiric_glove",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:villager_hat",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "artifacts:whoopee_cushion",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:dead_latern",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:flame_eye",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_dolphin",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_experience",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_fire_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_flight",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_growth",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_health",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_hungerless",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_invisibility",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_jump_boost",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_knockback_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_luck",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_magnetism",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_mining",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_night_vision",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_poison_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_regeneration",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_falling",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_slow_resistance",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_speed",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_sponge",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_strength",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_undying",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_breathing",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_water_walking",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ringsofascension:ring_wither",
+    "random": 0.003
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "hmag:insomnia_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "hmag:nemesis_blade",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "random": 0.5
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem",
+      "hmag:ogre",
+      "cataclysm:ignited_revenant",
+      "hmag:hornet",
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "random": 0.01
+  },
+
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "hmag:insomnia_sword",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "hmag:nemesis_blade",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.02
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.01
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "itemcount": "1-1/1-2/1-3"
+  },
+  {
+    "mob": [
+      "hmag:alraune",
+      "hmag:jack_frost",
+      "hmag:dyssomnia",
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:ser_pumpkinhead",
+      "bossominium:skelenado",
+      "bossominium:cultisager"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "random": 0.1
+  },
+
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
     "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:antidote_vessel",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:aqua_dashers",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:bunny_hoppers",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:charm_of_sinking",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:cloud_in_a_bottle",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:cross_necklace",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:crystal_heart",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:digging_claws",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:eternal_steak",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:everlasting_beef",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:feral_claws",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:fire_gauntlet",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:flame_pendant",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:flippers",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:golden_hook",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:helium_flamingo",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:kitty_slippers",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:lucky_scarf",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:mimic_spawn_egg",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:night_vision_goggles",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:novelty_drinking_hat",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:obsidian_skull",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:panic_necklace",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:plastic_drinking_hat",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:pocket_piston",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:power_glove",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:running_shoes",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:scarf_of_invisibility",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:shock_pendant",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:snorkel",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:steadfast_spikes",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:superstitious_hat",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:thorn_pendant",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:umbrella",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:universal_attractor",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:vampiric_glove",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:villager_hat",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "artifacts:whoopee_cushion",
-    "random": 0.005
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_dolphin",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_experience",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_fire_resistance",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_flight",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_growth",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_health",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_hungerless",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_invisibility",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_jump_boost",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_knockback_resistance",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_luck",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_magnetism",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_mining",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_night_vision",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_poison_resistance",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_regeneration",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_slow_falling",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_slow_resistance",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_speed",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_sponge",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_strength",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_undying",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_water_breathing",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_water_walking",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "ringsofascension:ring_wither",
-    "random": 0.003
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
-    ],
-    "item": "enigmaticlegacy:forbidden_axe",
-    "random": 0.01
-  },
-  {
-    "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "enigmaticlegacy:enigmatic_amulet",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:spiritual_sword",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:dark_ritual_dagger",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:soul_cutlass",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:intoxicating_dagger",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:trident_hayfork",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:staffof_magic_arrows",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:staffofthe_summoner",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:nightmare_scythe",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:great_reaper_axe",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "born_in_chaos_v1:skullbreaker_hammer",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "hmag:insomnia_sword",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "hmag:nemesis_blade",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "ars_nouveau:amulet_of_mana_boost",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "ars_nouveau:amulet_of_mana_regen",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "ars_nouveau:enchanters_shield",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
     "item": "ars_nouveau:enchanters_sword",
-    "random": 0.01
+    "random": 0.05
   },
   {
     "mob": [
-      "hmag:alraune",
-      "hmag:dyssomnia",
-      "hmag:hornet",
-      "hmag:jack_frost",
-      "hmag:ogre",
-      "born_in_chaos_v1:nightmare_stalker",
-      "born_in_chaos_v1:ser_pumpkinhead"
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
     ],
-    "item": "born_in_chaos_v1:seedof_chaos"
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "itemcount": "1-5/2-8/3-10"
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "random": 0.5
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:mega_sponge",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:golem_heart",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:eye_of_nebula",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:blazing_core",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:void_pearl",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:angel_blessing",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:monster_charm",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:etherium_sword",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:void_core",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:gauntlet_of_guard",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "cataclysm:bulwark_of_the_flame",
+    "random": 0.005
+  },
+  {
+    "mob": [
+      "bossominium:ruin",
+      "bossominium:golden_ring",
+      "bossominium:vengeful_trader",
+      "bossominium:netherrack_heart",
+      "cataclysm:nameless_sorcerer"
+    ],
+    "item": "enigmaticlegacy:hunter_guidebook",
+    "random": 0.005
+  },
+
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:mega_sponge",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:golem_heart",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:eye_of_nebula",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:blazing_core",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:void_pearl",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:angel_blessing",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:monster_charm",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:etherium_sword",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "cataclysm:void_core",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "cataclysm:gauntlet_of_guard",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "cataclysm:bulwark_of_the_flame",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:hunter_guidebook",
+    "random": 0.05
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:golden_charm",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:golden_eye_totem",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:hell_charger",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:nether_igniter",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:skelenado_chest_chestplate",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:soul_trapper",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:stone_shielder",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:stone_shocker",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:warped_wand",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:forbidden_axe",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "enigmaticlegacy:enigmatic_amulet",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:spiritual_sword",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:dark_ritual_dagger",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:soul_cutlass",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:intoxicating_dagger",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:trident_hayfork",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:staffof_magic_arrows",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:staffofthe_summoner",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:great_reaper_axe",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:skullbreaker_hammer",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "hmag:insomnia_sword",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "hmag:nemesis_blade",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_boost",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "ars_nouveau:amulet_of_mana_regen",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "ars_nouveau:enchanters_shield",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "ars_nouveau:enchanters_sword",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:angelic_golden_sword",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:ender_crystal_sword",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:fanged_dagger",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "bossominium:forest_mace",
+    "random": 0.1
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:seedof_chaos",
+    "itemcount": "1-5/2-8/3-10"
+  },
+  {
+    "mob": [
+      "cataclysm:ignis",
+      "cataclysm:ender_guardian",
+      "cataclysm:netherite_monstrosity"
+    ],
+    "item": "born_in_chaos_v1:orbofthe_summoner",
+    "itemcount": "1-5/2-8/3-10"
   }
 ]

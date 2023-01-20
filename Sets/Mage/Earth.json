@@ -1,0 +1,29 @@
+{
+  "armorSetName": "Archmage Set",
+  "head": {
+    "itemKey": "ars_elemental:earth_hat"
+  },
+  "chest": {
+    "itemKey": "ars_elemental:earth_robes"
+  },
+  "legs": {
+    "itemKey": "ars_elemental:earth_leggings"
+  },
+  "boots": {
+    "itemKey": "ars_elemental:earth_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "ars_nouveau:ars_nouveau.perk.spell_damage",
+      "value": 9.0,
+      "modifierUUID": "5e6cb1d3-b1a2-41de-8950-0d858398b196",
+      "description": "+9 spell power",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

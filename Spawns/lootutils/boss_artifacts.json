@@ -188,5 +188,15 @@
     "mob": [],
     "item": "artifacts:whoopee_cushion",
     "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:dead_latern",
+    "random": 0.005
+  },
+  {
+    "mob": [],
+    "item": "bossominium:flame_eye",
+    "random": 0.005
   }
 ]

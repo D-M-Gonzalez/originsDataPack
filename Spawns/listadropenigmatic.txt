@@ -1,0 +1,12 @@
+enigmaticlegacy:mega_sponge absorve agua
+enigmaticlegacy:golem_heart da banda de stats
+enigmaticlegacy:eye_of_nebula mucho daño sobretodo magia, te teltransporta
+enigmaticlegacy:blazing_core inmunidad y absorción de fuego
+enigmaticlegacy:void_pearl proteccion y no necesitas aire
+enigmaticlegacy:angel_blessing no te daña la caida, tiene dash, mejora proyectiles
+enigmaticlegacy:monster_charm mejora el daño da doble exp
+enigmaticlegacy:etherium_sword pega banda, te teletransporta para el lado opuesto
+cataclysm:void_core spell de spikes en area
+cataclysm:gauntlet_of_guard pullea mobs
+cataclysm:bulwark_of_the_flame charge y stun
+enigmaticlegacy:hunter_guidebook

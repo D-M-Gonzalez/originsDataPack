@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Light Nether Set",
+  "head": {
+    "itemKey": "majruszsdifficulty:light_nether_helmet"
+  },
+  "chest": {
+    "itemKey": "majruszsdifficulty:light_nether_chestplate"
+  },
+  "legs": {
+    "itemKey": "majruszsdifficulty:light_nether_leggings"
+  },
+  "boots": {
+    "itemKey": "majruszsdifficulty:light_nether_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.015,
+      "modifierUUID": "856f146f-d3ab-48ff-85bf-64c5194b783f",
+      "description": "+15% movement speed",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "projectile_damage:generic",
+      "value": 4.0,
+      "modifierUUID": "be977dab-c45b-4020-9a29-93f532cb1d37",
+      "description": "+4 ranged damage",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}
