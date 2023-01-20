@@ -1,0 +1,41 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:ethereal_spirit" },
+  "outputs": [
+    {
+      "mob": "minecraft:skeleton",
+      "count": 10,
+      "data": "{ HandItems: [{ id: \"minecraft:bow\", Count: 1 }] }",
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "minecraft:wither_skeleton",
+      "count": 6,
+      "data": "{ HandItems: [{ id: \"minecraft:iron_sword\", Count: 1 }] }",
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "majruszsdifficulty:tank",
+      "count": 2,
+      "data": "{ ArmorItems: [{ id: \"born_in_chaos_v1:shattered_skull\", Count: 1 }], ArmorDropChances:[1.0f] }",
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "born_in_chaos_v1:skeleton_thrasher",
+      "count": 1,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    { "item": "born_in_chaos_v1:fire_dust" }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "minecraft:bone" }, "count": 64 },
+    { "ingredient": { "item": "minecraft:phantom_membrane" }, "count": 20 },
+    { "ingredient": { "item": "minecraft:skeleton_skull" }, "count": 1 }
+  ],
+  "recipe_time": 100,
+  "day_time": "NIGHT"
+}

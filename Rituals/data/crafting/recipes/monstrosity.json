@@ -1,0 +1,24 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "cataclysm:monstrous_horn" },
+  "outputs": [
+    {
+      "mob": "cataclysm:ender_golem",
+      "count": 2,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 30, "y": 0, "z": 30 }
+    },
+    {
+      "mob": "cataclysm:netherite_monstrosity",
+      "count": 1,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 30, "y": 0, "z": 30 }
+    }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "minecraft:netherite_ingot" }, "count": 3 },
+    { "ingredient": { "item": "born_in_chaos_v1:seedof_chaos" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:romeoum_ingot" }, "count": 3 }
+  ],
+  "recipe_time": 300
+}

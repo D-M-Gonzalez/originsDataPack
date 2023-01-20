@@ -1,0 +1,29 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:fire_dust" },
+  "outputs": [
+    { "item": "artifacts:obsidian_skull", "count": 1 },
+    { "item": "artifacts:obsidian_skull", "count": 1 },
+    { "item": "artifacts:obsidian_skull", "count": 1 },
+    { "item": "minecraft:blaze_rod", "count": 20 },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 1,id: \"minecraft:mending\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:fire_protection\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:fire_protection\"}]}"
+    }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "cataclysm:burning_ashes" }, "count": 5 }
+  ],
+  "recipe_time": 100
+}

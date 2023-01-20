@@ -1,0 +1,45 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:ethereal_spirit" },
+  "outputs": [
+    {
+      "mob": "lava_monster:lava_monster",
+      "count": 3,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "hmag:melty_monster",
+      "count": 3,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "magma_monsters:magma_monster",
+      "count": 3,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "magma_monsters:magma_monster_grunt",
+      "count": 5,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    {
+      "mob": "minecraft:blaze",
+      "count": 5,
+      "data": "{ ArmorItems: [{ id: \"cataclysm:burning_ashes\", Count: 1 }], ArmorDropChances:[1.0f] }",
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 40, "y": 0, "z": 40 }
+    },
+    { "item": "born_in_chaos_v1:fire_dust" }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "minecraft:lava_bucket" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:lava_bucket" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:lava_bucket" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:magma_cream" }, "count": 10 }
+  ],
+  "recipe_time": 100
+}

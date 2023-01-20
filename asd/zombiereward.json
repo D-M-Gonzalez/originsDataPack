@@ -1,0 +1,29 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:fire_dust" },
+  "outputs": [
+    { "item": "artifacts:crystal_heart", "count": 1 },
+    { "item": "artifacts:crystal_heart", "count": 1 },
+    { "item": "artifacts:crystal_heart", "count": 1 },
+    { "item": "minecraft:emerald", "count": 60 },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 1,id: \"minecraft:mending\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:blast_protection\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:blast_protection\"}]}"
+    }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "born_in_chaos_v1:monster_skin" }, "count": 3 }
+  ],
+  "recipe_time": 100
+}

@@ -1,0 +1,31 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:fire_dust" },
+  "outputs": [
+    { "item": "minecraft:totem_of_undying", "count": 1 },
+    { "item": "minecraft:totem_of_undying", "count": 1 },
+    { "item": "minecraft:totem_of_undying", "count": 1 },
+    { "item": "minecraft:totem_of_undying", "count": 1 },
+    { "item": "minecraft:totem_of_undying", "count": 1 },
+    { "item": "minecraft:diamond", "count": 20 },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 1,id: \"minecraft:mending\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:projectile_protection\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 4,id: \"minecraft:projectile_protection\"}]}"
+    }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "born_in_chaos_v1:shattered_skull" }, "count": 2 }
+  ],
+  "recipe_time": 100
+}

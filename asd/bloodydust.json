@@ -10,7 +10,7 @@
     { "ingredient": { "item": "minecraft:blaze_powder" }, "count": 1 }
   ],
   "sacrifices": {
-    "mobs": [{ "mob": "minecraft:pig", "count": 3 }],
+    "mobs": ["minecraft:pig"],
     "region": { "x": 10, "y": 3, "z": 10 }
   },
   "recipe_time": 100

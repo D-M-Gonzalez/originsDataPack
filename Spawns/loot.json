@@ -315,7 +315,33 @@
     "mob": "bossominium:vengeful_trader",
     "removeall": true
   },
-
+  {
+    "mob": "cataclysm:ignis",
+    "item": ["cataclysm:ignitium_ingot"],
+    "removeall": true
+  },
+  {
+    "mob": "cataclysm:ender_golem",
+    "removeall": true
+  },
+  {
+    "mob": "cataclysm:ender_guardian",
+    "removeall": true,
+    "item": ["cataclysm:void_jaw"]
+  },
+  {
+    "mob": "cataclysm:netherite_monstrosity",
+    "removeall": true,
+    "item": ["cataclysm:monstrous_horn"]
+  },
+  {
+    "mob": "cataclysm:nameless_sorcerer",
+    "removeall": true
+  },
+  {
+    "mob": "cataclysm:ignited_revenant",
+    "removeall": true
+  },
   {
     "mob": [
       "minecraft:zombie",
