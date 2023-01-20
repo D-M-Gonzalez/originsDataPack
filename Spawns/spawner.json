@@ -27,7 +27,6 @@
       "ars_nouveau:wilden_stalker",
       "hmag:husk_girl",
       "hmag:slime_girl",
-      "hmag:wither_skeleton_girl",
       "born_in_chaos_v1:dark_vortex",
       "born_in_chaos_v1:bone_imp",
       "born_in_chaos_v1:skeleton_bomb",
@@ -68,7 +67,7 @@
     ],
     "persecond": 0.3,
     "weights": 3,
-    "attempts": 2,
+    "attempts": 3,
     "amount": {
       "minimum": 1,
       "maximum": 1
@@ -80,6 +79,33 @@
       "maxdist": 80,
       "minheight": -64,
       "maxheight": -21,
+      "maxthis": 1
+    }
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "persecond": 1,
+    "weights": 3,
+    "attempts": 5,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "norestrictions": true,
+      "dimension": "minecraft:overworld",
+      "minheight": -64,
+      "maxheight": -32,
+      "mindist": 32,
+      "maxdist": 100,
       "maxthis": 2
     }
   },
@@ -176,7 +202,7 @@
     }
   },
   {
-    "mob": ["hmag:harpy", "hmag:dyssomnia"],
+    "mob": ["hmag:harpy"],
     "phase": "night",
     "persecond": 0.2,
     "weights": 5,
@@ -280,7 +306,7 @@
     }
   },
   {
-    "mob": ["hmag:ogre"],
+    "mob": ["hmag:dyssomnia"],
     "persecond": 0.2,
     "weights": 10,
     "attempts": 5,
@@ -314,6 +340,64 @@
       "maxdist": 80,
       "minheight": 62,
       "maxheight": 128,
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": ["minecraft:ghast"],
+    "persecond": 0.3,
+    "weights": 3,
+    "attempts": 4,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "norestrictions": true,
+      "dimension": "minecraft:the_nether",
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": [
+      "minecraft:wither_skeleton",
+      "hmag:wither_skeleton_girl",
+      "born_in_chaos_v1:firelight",
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher"
+    ],
+    "persecond": 0.3,
+    "weights": 3,
+    "attempts": 4,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "norestrictions": true,
+      "dimension": "minecraft:the_nether",
+      "maxthis": 2
+    }
+  },
+  {
+    "mob": [
+      "lava_monster:lava_monster",
+      "magma_monsters:magma_monster",
+      "magma_monsters:magma_monster_grunt",
+      "hmag:melty_monster"
+    ],
+    "persecond": 0.3,
+    "weights": 3,
+    "attempts": 4,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "norestrictions": true,
+      "inlava": true,
+      "dimension": "minecraft:the_nether",
       "maxthis": 5
     }
   }

@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Romeum Set",
+  "head": {
+    "itemKey": "majruszsdifficulty:romeum_helmet"
+  },
+  "chest": {
+    "itemKey": "majruszsdifficulty:romeum_chestplate"
+  },
+  "legs": {
+    "itemKey": "majruszsdifficulty:romeum_leggings"
+  },
+  "boots": {
+    "itemKey": "majruszsdifficulty:romeum_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 6.0,
+      "modifierUUID": "524c0b5e-3ae3-4357-8696-bc8ca878ef7c",
+      "description": "+3 Hearts",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 12.0,
+      "modifierUUID": "176f11c9-8975-403e-8675-9893ad402402",
+      "description": "+6 Hearts",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

@@ -1,0 +1,28 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:fire_dust" },
+  "outputs": [
+    { "item": "artifacts:cross_necklace", "count": 1 },
+    { "item": "artifacts:cross_necklace", "count": 1 },
+    { "item": "artifacts:cross_necklace", "count": 1 },
+    { "item": "minecraft:diamond", "count": 10 },
+    { "item": "minecraft:emerald", "count": 30 },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 1,id: \"minecraft:mending\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 3,id: \"minecraft:soul_speed\"}]}"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "nbt": "{StoredEnchantments: [{lvl: 3,id: \"minecraft:soul_speed\"}]}"
+    }
+  ],
+  "inputs": [{ "ingredient": { "item": "hmag:soul_powder" }, "count": 16 }],
+  "recipe_time": 100
+}

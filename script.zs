@@ -1,10 +1,35 @@
 import crafttweaker.api.item.IItemStack;
 
+//saca recetas de arrows
 craftingTable.remove(<item:xtraarrows:netherite_arrow>);
 craftingTable.remove(<item:xtraarrows:diamond_arrow>);
 craftingTable.remove(<item:xtraarrows:golden_arrow>);
 craftingTable.remove(<item:xtraarrows:iron_arrow>);
 craftingTable.remove(<item:minecraft:arrow>);
+//saca recetas de mods que no queremos
+craftingTable.removeByModid("hmag");
+craftingTable.removeByModid("born_in_chaos_v1");
+craftingTable.removeByModid("hmag");
+craftingTable.removeByModid("angelring");
+craftingTable.removeByModid("bossominium");
+craftingTable.removeByModid("cataclysm");
+craftingTable.removeByModid("majruszsdifficulty");
+craftingTable.removeByModid("mcsmarmors");
+
+//receta tabla de rituales
+craftingTable.addShaped("ritual_table",<item:summoningrituals:altar>, [
+    [<item:minecraft:air>, <item:minecraft:candle>, <item:minecraft:air>], 
+    [<item:minecraft:obsidian>, <item:minecraft:obsidian>, <item:minecraft:obsidian>],
+    [<item:minecraft:diamond_block>, <item:minecraft:obsidian>, <item:minecraft:diamond_block>]
+    ]
+    );
+//receta de romeum plate
+craftingTable.addShaped("romeum_plate",<item:mcsmarmors:romeum_plate>, [
+    [<item:minecraft:air>, <item:mcsmarmors:romeumingot>, <item:minecraft:air>], 
+    [<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>],
+    [<item:minecraft:air>, <item:mcsmarmors:romeumingot>, <item:minecraft:air>]
+    ]
+    );
 
 //recetas arrows
 
@@ -115,5 +140,49 @@ craftingTable.addShaped("ancient_chestplate",
     [<item:minecraft:diamond>, 
     <item:minecraft:air>,
     <item:minecraft:diamond>]
+    ]
+    );
+
+//Romeum base
+
+craftingTable.addShaped("romeum_boots",
+<item:majruszsdifficulty:romeum_boots>, [
+    [<item:mcsmarmors:romeum_plate>, <item:minecraft:air>, <item:mcsmarmors:romeum_plate>], 
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:minecraft:air>,
+    <item:mcsmarmors:romeum_plate>]
+    ]
+    );
+
+craftingTable.addShaped("romeum_helmet",
+<item:majruszsdifficulty:romeum_helmet>, [
+    [<item:mcsmarmors:romeum_plate>, <item:mcsmarmors:romeum_plate>, <item:mcsmarmors:romeum_plate>], 
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:minecraft:air>,
+    <item:mcsmarmors:romeum_plate>]
+    ]
+    );
+
+craftingTable.addShaped("romeum_leggings",
+<item:majruszsdifficulty:romeum_leggings>, [
+    [<item:mcsmarmors:romeum_plate>, <item:mcsmarmors:romeum_plate>, <item:mcsmarmors:romeum_plate>], 
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:minecraft:air>,
+    <item:mcsmarmors:romeum_plate>],
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:minecraft:air>,
+    <item:mcsmarmors:romeum_plate>]
+    ]
+    );
+
+craftingTable.addShaped("romeum_chestplate",
+<item:majruszsdifficulty:romeum_chestplate>, [
+    [<item:mcsmarmors:romeum_plate>, <item:minecraft:air>, <item:mcsmarmors:romeum_plate>], 
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:mcsmarmors:romeum_plate>,
+    <item:mcsmarmors:romeum_plate>],
+    [<item:mcsmarmors:romeum_plate>, 
+    <item:mcsmarmors:romeum_plate>,
+    <item:mcsmarmors:romeum_plate>]
     ]
     );

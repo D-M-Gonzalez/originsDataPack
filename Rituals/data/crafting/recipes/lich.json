@@ -1,0 +1,20 @@
+{
+  "type": "summoningrituals:altar",
+  "catalyst": { "item": "born_in_chaos_v1:ethereal_spirit" },
+  "outputs": [
+    {
+      "mob": "hmag:lich",
+      "count": 1,
+      "offset": { "x": 0, "y": 3, "z": 0 },
+      "spread": { "x": 20, "y": 0, "z": 20 }
+    }
+  ],
+  "inputs": [
+    { "ingredient": { "item": "minecraft:diamond" }, "count": 20 },
+    { "ingredient": { "item": "minecraft:emerald" }, "count": 20 },
+    { "ingredient": { "item": "minecraft:wither_skeleton_skull" }, "count": 1 }
+  ],
+  "recipe_time": 100,
+  "day_time": "NIGHT",
+  "weather": "RAIN"
+}

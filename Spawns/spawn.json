@@ -163,7 +163,7 @@
     "result": "allow"
   },
   {
-    "mob": "hmag:ogre",
+    "mob": "hmag:dyssomnia",
     "customname": "Mountain Lord",
     "angry": true,
     "minheight": 128,
@@ -180,7 +180,6 @@
       "hmag:wither_skeleton_girl",
       "born_in_chaos_v1:dark_vortex",
       "born_in_chaos_v1:bone_imp",
-      "born_in_chaos_v1:skeleton_bomb",
       "born_in_chaos_v1:zombieswith_door",
       "born_in_chaos_v1:diamond_thermite",
       "born_in_chaos_v1:phantom_creeper",
@@ -201,9 +200,172 @@
     "result": "allow"
   },
   {
+    "mob": "born_in_chaos_v1:skeleton_bomb",
+    "dimension": "minecraft:overworld",
+    "speedmultiply": 0.7,
+    "maxheight": 20,
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:ceryneian_hind",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:plague_asylum",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:foundry",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:illager_fort",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:illager_windmill",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:keep_kayra",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:shiraz_palace",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "majruszsdifficulty:tank",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      "born_in_chaos_v1:skeleton_thrasher",
+      "born_in_chaos_v1:zombieswith_door",
+      "born_in_chaos_v1:diamond_thermite",
+      "born_in_chaos_v1:bonescaller",
+      "hmag:giant_mummy",
+      "hmag:dullahan"
+    ],
+    "incontrol": true,
+    "structure": "dungeons_arise:thornborn_towers",
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "lava_monster:lava_monster",
+      "magma_monsters:magma_monster",
+      "magma_monsters:magma_monster_grunt",
+      "hmag:melty_monster"
+    ],
+    "incontrol": true,
+    "dimension": "minecraft:the_nether",
+    "result": "allow"
+  },
+  {
     "mod": "minecraft",
     "spawner": true,
     "result": "default"
+  },
+  {
+    "mod": "hmag",
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mod": "born_in_chaos_v1",
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mod": "majruszsdifficulty",
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "minecraft:ghast",
+    "dimension": "minecraft:the_nether",
+    "healthmultiply": 3.0,
+    "result": "allow"
   },
   {
     "mob": [
