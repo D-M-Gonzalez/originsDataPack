@@ -76,7 +76,7 @@
   {
     "mob": "hmag:lich",
     "removeall": true,
-    "item": ["minecraft:seedof_chaos"],
+    "item": ["born_in_chaos_v1:seedof_chaos"],
     "itemcount": "1-3/2-4/3-5"
   },
   {
@@ -98,7 +98,7 @@
   {
     "mob": "hmag:ogre",
     "removeall": true,
-    "item": ["minecraft:seedof_chaos"],
+    "item": ["born_in_chaos_v1:seedof_chaos"],
     "itemcount": "1-3/2-4/3-5"
   },
   {
@@ -1022,7 +1022,7 @@
   },
   {
     "mob": [],
-    "item": "bossominium:dead_latern",
+    "item": "bossominium:dead_lantern",
     "random": 0.002
   },
   {
@@ -1702,7 +1702,7 @@
       "hmag:hornet",
       "born_in_chaos_v1:pumpkinhead"
     ],
-    "item": "bossominium:dead_latern",
+    "item": "bossominium:dead_lantern",
     "random": 0.005
   },
   {

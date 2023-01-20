@@ -4,7 +4,7 @@ bossominium:golden_eye_totem solo dura 3 golpes
 bossominium:ender_crystal_sword levita enemigos al pegarles
 bossominium:blood_cannon cañon re op   
 bossominium:dagger_of_en sumonea lava en todos lados muy op
-bossominium:dead_latern tracker de undead
+bossominium:dead_lantern tracker de undead
 bossominium:dessert_necklace_chestplate una armadura fea
 bossominium:enderporter muy op teletransporta enemigos
 bossominium:fanged_bracelet sumonea mandibulas, una cagada
